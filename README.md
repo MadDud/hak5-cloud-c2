@@ -1,5 +1,5 @@
 # cloudc2docker
-A Docker container for Hak5's Cloud C2.
+A Docker container for Hak5's Cloud C2 - https://docs.hak5.org/hc/en-us/articles/360012947534-About-Cloud-C2
 
 ## Built On
 * Ubuntu 18.04.3
